@@ -11,4 +11,8 @@ performance metrics. Machine learning algorithms could be employed to recognize 
 patterns and predict which grip pattern would be most effective for a given task.
 
 
+![Screenshot 2024-08-04 223340](https://github.com/user-attachments/assets/50c22929-c69b-47bd-80d8-16576a9f7166)
+
+
+
 
