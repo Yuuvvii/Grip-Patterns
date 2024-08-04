@@ -10,6 +10,5 @@ identify patterns and correlations between shoulder orientation, grip patterns, 
 performance metrics. Machine learning algorithms could be employed to recognize these 
 patterns and predict which grip pattern would be most effective for a given task.
 
-![M2](https://github.com/user-attachments/assets/19723383-cec3-4ee0-9907-b6151f0876ea)
 
 
